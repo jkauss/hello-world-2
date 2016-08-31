@@ -1,2 +1,4 @@
 # hello-world-2
-First Repository
+
+A little about Janna.
+I started The Neue Guild in 2016....
